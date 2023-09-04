@@ -5,5 +5,5 @@ app.get("/", (req, res) => {
     mesg: "Hello from backend!",
   });
 });
-app.listen(5000);
+app.listen(3000);
 console.log("Server is listening");
